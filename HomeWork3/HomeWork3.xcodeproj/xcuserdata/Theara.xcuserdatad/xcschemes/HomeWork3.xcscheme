@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F2657C3A1DFCFA90009AA368"
+               BlueprintIdentifier = "F205057B1DFFED350037D130"
                BuildableName = "HomeWork3.app"
                BlueprintName = "HomeWork3"
                ReferencedContainer = "container:HomeWork3.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2657C3A1DFCFA90009AA368"
+            BlueprintIdentifier = "F205057B1DFFED350037D130"
             BuildableName = "HomeWork3.app"
             BlueprintName = "HomeWork3"
             ReferencedContainer = "container:HomeWork3.xcodeproj">
@@ -55,12 +55,19 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2657C3A1DFCFA90009AA368"
+            BlueprintIdentifier = "F205057B1DFFED350037D130"
             BuildableName = "HomeWork3.app"
             BlueprintName = "HomeWork3"
             ReferencedContainer = "container:HomeWork3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "OS_ACTIVITY_MODE"
+            value = "disable"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -74,7 +81,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2657C3A1DFCFA90009AA368"
+            BlueprintIdentifier = "F205057B1DFFED350037D130"
             BuildableName = "HomeWork3.app"
             BlueprintName = "HomeWork3"
             ReferencedContainer = "container:HomeWork3.xcodeproj">
